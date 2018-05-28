@@ -1,0 +1,12 @@
+{
+  "name": "MedellaBot",
+  "version": "1.0.0",
+  "description": "Control software for Medella's Nanoparticle Dispenser",
+  "main": "index.js",
+  "author": "lucaszw",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lerna": "^2.9.0"
+  }
+}
